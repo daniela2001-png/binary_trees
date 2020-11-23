@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 #include <stdlib.h>
+=======
+>>>>>>> origin
 #include "binary_trees.h"
 
 /**
@@ -6,9 +9,15 @@
  *
  * Return: Always 0 (Success)
  */
+<<<<<<< HEAD
 int main(void)
 {
 	binary_tree_t *root;
+=======
+int main()
+{
+    binary_tree_t *root;
+>>>>>>> origin
 
 	root = binary_tree_node(NULL, 98);
 
@@ -19,7 +28,14 @@ int main(void)
 	root->right = binary_tree_node(root, 402);
 	root->right->left = binary_tree_node(root->right, 256);
 	root->right->right = binary_tree_node(root->right, 512);
+<<<<<<< HEAD
 
 	binary_tree_print(root);
 	return (0);
+=======
+	root->right->right = binary_tree_node(root->right, 500);
+
+	binary_tree_print(root);
+	return 0;
+>>>>>>> origin
 }
