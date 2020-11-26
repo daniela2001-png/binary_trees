@@ -1,6 +1,7 @@
-# Foobar
+# Binary Tree
 
-Foobar is a Python library for dealing with word pluralization.
+### What is a Binary Tree?
+- a data structure in which a record is linked to two successor records, usually referred to as the left branch when greater and the right when less than the previous record.
 
 ## Installation
 
