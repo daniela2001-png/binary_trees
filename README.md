@@ -6,6 +6,9 @@
 - A Binary Tree follows one simple rule that each parent node has no more than two child nodes, whereas a Binary Search Tree is just a variant of the binary tree which follows a relative order to how the nodes should be organized in a tree.
 ### What is the possible gain in terms of time complexity compared to linked lists?
 - A binary tree has a better time complexity for searching O(log N) but in the worst case can be the same as a linked list O(n). This means searching a binary tree will (in most cases) be faster than searching a linked list.
+### What are the depth, the height, the size of a binary tree?
+![](https://qph.fs.quoracdn.net/main-qimg-1ec0ae202b49683e52b995a1563476d8)
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
