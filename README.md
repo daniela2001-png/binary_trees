@@ -7,7 +7,7 @@
 ### What is the possible gain in terms of time complexity compared to linked lists?
 - A binary tree has a better time complexity for searching O(log N) but in the worst case can be the same as a linked list O(n). This means searching a binary tree will (in most cases) be faster than searching a linked list.
 ### What are the depth, the height, the size of a binary tree?
-![](https://qph.fs.quoracdn.net/main-qimg-1ec0ae202b49683e52b995a1563476d8)
+<img src="https://qph.fs.quoracdn.net/main-qimg-1ec0ae202b49683e52b995a1563476d8" width="500">
 ### What are the different traversal methods to go through a binary tree
 <img src="https://computersciencewiki.org/images/7/7c/Binary_tree_traversal.png" width="500">
 ### What is a complete, a full, a perfect, a balanced binary tree?
