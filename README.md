@@ -45,7 +45,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 * Language: C
 * OS: Ubuntu 14.04 LTS
 * Style guide format code: [Betty](https://github.com/holbertonschool/Betty)
-
+* gcc: 4.8.5
 
 <img src="https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg" height="150"><img src="https://download.logo.wine/logo/GNU_Compiler_Collection/GNU_Compiler_Collection-Logo.wine.png" height="150">
 
