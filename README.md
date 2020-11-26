@@ -54,6 +54,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ![](https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg)
 
+## To Do List
+- [x] Binary Tree
+- [ ] BTS and ALV
+
 ## Authors
 * [Daniela Morales] (https://github.com/daniela2001-png)
 * [Andres Ariza] (https://github.com/afarizap)
