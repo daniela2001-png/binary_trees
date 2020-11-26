@@ -1,7 +1,11 @@
 #include "binary_trees.h"
 
 
-
+/**
+ * binary_tree_is_leaf - checks if a node is a leaf
+ * @node: pointer to the node to check
+ * Return: if node is leaf 1, else 0(including node is null)
+ */
 int binary_tree_is_leaf(const binary_tree_t *node)
 {
 	if (node->left == NULL && node->right == NULL)
@@ -15,7 +19,6 @@ int binary_tree_is_leaf(const binary_tree_t *node)
 */
 size_t binary_tree_height(const binary_tree_t *tree)
 {
-	//size_t level = 0;
 	size_t der, izq = 0;
 
 	if (!tree || binary_tree_is_leaf(tree))
@@ -23,6 +26,6 @@ size_t binary_tree_height(const binary_tree_t *tree)
 	der = binary_tree_height(tree->right);
 	izq = binary_tree_height(tree->left);
 	if (der > izq)
-		return der + 1;
-	return izq + 1;
+		return (der + 1);
+	return (izq + 1);
 }
