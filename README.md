@@ -2,7 +2,8 @@
 
 ### What is a Binary Tree?
 - a data structure in which a record is linked to two successor records, usually referred to as the left branch when greater and the right when less than the previous record.
-
+### What is the difference between a binary tree and a Binary Search Tree?
+- A Binary Tree follows one simple rule that each parent node has no more than two child nodes, whereas a Binary Search Tree is just a variant of the binary tree which follows a relative order to how the nodes should be organized in a tree.
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
