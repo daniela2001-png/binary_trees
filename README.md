@@ -50,6 +50,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 * Language: C
 * OS: Ubuntu 14.04 LTS
 * Style guide format code: [Betty](https://github.com/holbertonschool/Betty)
+
+
 ![](https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg)
 
 ## Authors
