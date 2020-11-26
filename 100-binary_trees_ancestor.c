@@ -16,7 +16,7 @@ binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,
 	uno = first;
 	dos = second;
 	if (uno->parent == dos)
-		return (uno->parent)
+		return (uno->parent);
 	while (uno)
 	{
 		while (dos)
