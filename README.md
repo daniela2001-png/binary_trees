@@ -12,6 +12,7 @@
 ![](https://computersciencewiki.org/images/7/7c/Binary_tree_traversal.png)
 ### What is a complete, a full, a perfect, a balanced binary tree?
 ![](https://miro.medium.com/max/16000/1*CMGFtehu01ZEBgzHG71sMg.png)
+
 ## Requirements
 - Allowed editors: vi, vim, emacs
 - All your files will be compiled on Ubuntu 14.04 LTS
@@ -28,43 +29,33 @@
 - All your header files should be include guarded
 
 ## Installation
-
 Use the package manager to install gcc.
-
 ```bash
 $ sudo apt install gcc
 ```
-
 ## Usage
-
 i.e.
 
 ```bash
 make cero -f 0-Makefile | ./0-node
 ```
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 ## Environment
 * Language: C
 * OS: Ubuntu 14.04 LTS
 * Style guide format code: [Betty](https://github.com/holbertonschool/Betty)
 
 
-<img src="https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg" width="500">
+<img src="https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg" width="300">
 
 ## To Do List
 - [x] Binary Tree
 - [ ] BTS and ALV
-
 ## Other links
 - [Amazing video about BT](https://www.youtube.com/watch?v=H5JubkIy_p8)
-
-
 ## Authors
 * [Daniela Morales](https://github.com/daniela2001-png)
 * [Andres Ariza](https://github.com/afarizap)
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
