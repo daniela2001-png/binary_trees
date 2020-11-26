@@ -8,8 +8,10 @@
 - A binary tree has a better time complexity for searching O(log N) but in the worst case can be the same as a linked list O(n). This means searching a binary tree will (in most cases) be faster than searching a linked list.
 ### What are the depth, the height, the size of a binary tree?
 ![](https://qph.fs.quoracdn.net/main-qimg-1ec0ae202b49683e52b995a1563476d8)
-###What are the different traversal methods to go through a binary tree
+### What are the different traversal methods to go through a binary tree
 ![](https://computersciencewiki.org/images/7/7c/Binary_tree_traversal.png)
+### What is a complete, a full, a perfect, a balanced binary tree?
+![](https://miro.medium.com/max/16000/1*CMGFtehu01ZEBgzHG71sMg.png)
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
