@@ -6,24 +6,27 @@
  * @second: pointer to the second node
  * Return: a pointer to the lowest common ancestor node of the two given nodes
  */
-binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, const binary_tree_t *second)
+binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,
+				     const binary_tree_t *second)
 {
-	const binary_tree_t *ptr, *pt;
+	const binary_tree_t *uno, *dos;
 
 	if (!first->parent || !second->parent)
 		return (NULL);
-	ptr = first;
-	pt = second;
-	while (ptr)
+	if (first == second)
+		return (NULL);
+	uno = first;
+	dos = second;
+	while (uno)
 	{
-		while (pt->parent)
+		while (dos)
 		{
-			if (pt->parent == ptr)
-				return (pt->parent);
-			pt = pt->parent;
+			if (dos->parent == uno)
+				return (dos->parent);
+			dos = dos->parent;
 		}
-		pt = second;
-		ptr = ptr->parent;
+		dos = second;
+		uno = uno->parent;
 	}
 	return (NULL);
 }
