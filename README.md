@@ -9,7 +9,7 @@
 ### What are the depth, the height, the size of a binary tree?
 ![](https://qph.fs.quoracdn.net/main-qimg-1ec0ae202b49683e52b995a1563476d8)
 ### What are the different traversal methods to go through a binary tree
-![](https://computersciencewiki.org/images/7/7c/Binary_tree_traversal.png)
+<img src="https://computersciencewiki.org/images/7/7c/Binary_tree_traversal.png" width="500">
 ### What is a complete, a full, a perfect, a balanced binary tree?
 <img src="https://miro.medium.com/max/16000/1*CMGFtehu01ZEBgzHG71sMg.png" width="500">
 
