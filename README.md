@@ -14,7 +14,7 @@
 ![](https://miro.medium.com/max/16000/1*CMGFtehu01ZEBgzHG71sMg.png)
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager to install gcc.
 
 ```bash
 $ sudo apt install gcc
@@ -22,12 +22,10 @@ $ sudo apt install gcc
 
 ## Usage
 
-```python
-import foobar
+i.e.
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```bash
+make cero -f 0-Makefile | ./0-node
 ```
 
 ## Contributing
