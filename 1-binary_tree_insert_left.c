@@ -9,7 +9,9 @@
 
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 {
-	binary_tree_t *my_node = malloc(sizeof(struct binary_tree_s));
+	binary_tree_t *my_node = NULL;
+
+	my_node = malloc(sizeof(struct binary_tree_s));
 
 	if (!my_node)
 		return (NULL);
