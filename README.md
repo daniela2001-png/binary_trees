@@ -11,7 +11,7 @@
 ### What are the different traversal methods to go through a binary tree
 ![](https://computersciencewiki.org/images/7/7c/Binary_tree_traversal.png)
 ### What is a complete, a full, a perfect, a balanced binary tree?
-![](https://miro.medium.com/max/16000/1*CMGFtehu01ZEBgzHG71sMg.png)
+<img src="https://miro.medium.com/max/16000/1*CMGFtehu01ZEBgzHG71sMg.png" width="500")
 
 ## Requirements
 - Allowed editors: vi, vim, emacs
