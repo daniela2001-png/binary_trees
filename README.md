@@ -59,8 +59,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - [ ] BTS and ALV
 
 ## Authors
-* [Daniela Morales] (https://github.com/daniela2001-png)
-* [Andres Ariza] (https://github.com/afarizap)
+* [Daniela Morales](https://github.com/daniela2001-png)
+* [Andres Ariza](https://github.com/afarizap)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
