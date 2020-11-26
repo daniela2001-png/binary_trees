@@ -52,7 +52,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 * Style guide format code: [Betty](https://github.com/holbertonschool/Betty)
 
 
-![](https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg)
+<img src="https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg" width="500">
 
 ## To Do List
 - [x] Binary Tree
