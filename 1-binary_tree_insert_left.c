@@ -9,24 +9,11 @@
 
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 {
-	binary_tree_t *my_node = malloc(sizeof(struct binary_tree_s));
+	binary_tree_t *new_node;
 
-	if (!my_node)
-		return (NULL);
-	if (!parent)
-		return (NULL);
-	my_node->n = value;
-	my_node->left = NULL;
-	my_node->right = NULL;
-	my_node->parent = parent;
-	if (parent->left)
-	{
-		/* left del 54 es 12*/
-		my_node->left = parent->left;
-		/* aqui el padre de 12 pase de ser de 98 a 54 :3 */
-		my_node->left->parent = my_node;
-	}
-	/* aqui asigno la izquierda al padre si o si siempre */
-	parent->left = my_node;
-	return (my_node);
+	new_node = binary_tree_node(parent, value);
+	if (parent->left != NULL)
+		binary_tree_insert_left(new_node, parent->left->n);
+	parent->left = new_node;
+	return (new_node);
 }
