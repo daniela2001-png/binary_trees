@@ -11,10 +11,10 @@ binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,
 {
 	const binary_tree_t *uno, *dos;
 
-	if (!first->parent || !second->parent)
+	if (!first || !second)
 		return (NULL);
-	if (first == second)
-		return (first);
+	if (first-parent == second)
+		return (first->parent);
 	uno = first;
 	dos = second;
 	while (uno)
