@@ -31,6 +31,11 @@ make cero -f 0-Makefile | ./0-node
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## Environment
+* Language: C
+* OS: Ubuntu 14.04 LTS
+* Style guide format code: [Betty](https://github.com/holbertonschool/Betty)
+
 ## Authors
 * [Daniela Morales] (https://github.com/daniela2001-png)
 * [Andres Ariza] (https://github.com/afarizap)
