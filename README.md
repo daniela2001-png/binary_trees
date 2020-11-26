@@ -47,7 +47,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 * Style guide format code: [Betty](https://github.com/holbertonschool/Betty)
 
 
-<img src="https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg" height="150"><img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" height="150">
+<img src="https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg" height="150"><img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" height="150"><img src="https://www.rackhansa.com/wp-content/uploads/2015/07/logo-ubuntu_st_no-black_orange-hex.png" height="150">
 ## To Do List
 - [x] Binary Tree
 - [ ] BTS and ALV
